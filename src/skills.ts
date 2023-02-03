@@ -1,6 +1,7 @@
 export const skills = [
   {
-    level: "Comfortable with",
+    level: "Good at",
+    description: "Things that I can do very well and want to do daily",
     skills: [
       "Node",
       "Typescript",
@@ -9,17 +10,18 @@ export const skills = [
       "Solid JS",
       "Tauri",
       "Git",
-      "Atomic CSS",
       "Tailwind",
-      "UI design",
-      "Interaction design",
+      "UnoCSS",
+      // "UI design",
+      // "Interaction design",
       "Internationalization",
       "DX",
       // "VR development",
     ],
   },
   {
-    level: "Learning and improving at",
+    level: "Learning",
+    description: "Things I want to do daily but still have a lot to learn",
     skills: [
       "Deno",
       "Rust",
@@ -37,6 +39,7 @@ export const skills = [
   },
   {
     level: "Past experience",
+    description: "Things I can do well but have found better alternatives",
     skills: [
       "Svelte",
       "Vue",
@@ -49,7 +52,7 @@ export const skills = [
       "Java",
       "C#",
       "Unity",
-      "WordPress",
+      // "WordPress",
     ],
   }
 ];
