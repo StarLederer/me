@@ -5,7 +5,7 @@ import education from "./education.ts";
 
 export const config = {
   name: "Star Lederer",
-  subtitle: "Innovator, open-source enthusiast, UX/DX perfectionist",
+  subtitle: "Innovator, open-source enthusiast, dreamer",
   portfolioUrl: "starlederer.github.io",
   contact,
   experience,
