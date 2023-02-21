@@ -2,8 +2,8 @@
   description = "deno";
 
   inputs = {
-    flake-utils.url = "github:numtide/flake-utils/master";
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-22.05";
+    flake-utils.url = "github:numtide/flake-utils";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-22.11";
   };
 
   outputs = { self, flake-utils, nixpkgs }:
