@@ -26,7 +26,7 @@ export const contactDetails: ContactDetails = [
   },
   {
     method: "address",
-    data: "Groningen, Netherlands",
+    data: "Netherlands or all of EU",
   },
 ];
 
