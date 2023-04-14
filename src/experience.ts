@@ -73,11 +73,11 @@ export const experience: Experiences = [
   {
     start: "2021-12",
     end: "2022-03",
-    organization: "Metachef (form. DigitalChef)",
-    role: "WordPress developer",
+    organization: "Digital Chef",
+    role: "WordPress theme developer",
     achievements: [
-      "Helped Metachef restart their brand by building a new website",
-      "Achieved full GDPR compliance on Metachef's new website",
+      "Helped Digital Chef restart their brand by building a new website",
+      "Achieved full GDPR compliance on Digital Chef's new website",
     ],
   },
   {
