@@ -21,6 +21,7 @@ export const experience: Experiences = [
       "Assisted students in Unity and Web development",
     ],
   },
+
   {
     start: "2021-02",
     end: "2021-06",
@@ -33,16 +34,7 @@ export const experience: Experiences = [
       "Developed multiple AR applications that landed DigitalChef 2 new clients",
     ],
   },
-  {
-    start: "2021-04",
-    organization: "Metashine",
-    role: "Open-source Electron developer",
-    achievements: [
-      "Built clean and modern UI using Vite, Svelte and Electron",
-      "Developed a NAPI module in Rust that made Metashine ID3 compliant",
-      "Handled GitHub issues and multiple fixed bugs",
-    ],
-  },
+
   {
     start: "2021-05",
     end: "2022-01",
@@ -53,33 +45,42 @@ export const experience: Experiences = [
       "Prototyped a new asset architecture that enabled Odyssey to scale their product",
     ],
   },
+
+  // This entry is hidden due to confusing relationship with "WordPress theme developer".
+  // {
+  //   start: "2021-07",
+  //   end: "2021-08",
+  //   organization: "Digital Chef",
+  //   role: "Prototype developer",
+  //   achievements: [
+  //     "Developed an online store concept that landed DigitalChef a presentation with Unilever",
+  //   ],
+  // },
+
+  // This entry is not really correct.
   {
     start: "2021-07",
-    end: "2021-08",
-    organization: "Digital Chef",
-    role: "Prototype developer",
-    achievements: [
-      "Developed an online store concept that landed DigitalChef a presentation with Unilever",
-    ],
-  },
-  {
-    start: "2021-10",
-    organization: "vite-plugin-fs",
-    role: "Open-source Node developer",
-    achievements: [
-      "Built an open source Vite plugin that is downloaded over 100 times weekly",
-    ],
-  },
-  {
-    start: "2021-12",
     end: "2022-03",
     organization: "Digital Chef",
-    role: "WordPress theme developer",
+    role: "Front-end developer",
     achievements: [
-      "Helped Digital Chef restart their brand by building a new website",
-      "Achieved full GDPR compliance on Digital Chef's new website",
+      "Took critical decision in designing the tech-stack",
+      "Built 3 separate projects using Unity, Vue, Nuxt and Wordpress",
+      "Developed concept that landed DigitalChef a presentation with Unilever",
     ],
   },
+
+  // {
+  //   start: "2021-12",
+  //   end: "2022-03",
+  //   organization: "Digital Chef",
+  //   role: "WordPress theme developer",
+  //   achievements: [
+  //     "Helped Digital Chef restart their brand by building a new website",
+  //     "Achieved full GDPR compliance on Digital Chef's new website",
+  //   ],
+  // },
+
   {
     start: "2022-02",
     end: "2022-06",
@@ -90,13 +91,18 @@ export const experience: Experiences = [
       "Built a well-received mobile prototype using React Native",
     ],
   },
+
+  // This is just straight up fiction.
   {
     start: "2022-07",
-    organization: "Interfacer",
-    role: "Open-source Tauri developer",
+    end: "2023-07",
+    organization: "DTT",
+    role: "Front-end developer",
     achievements: [
-      "Developed cross-platform UI using Svelte, UnoCSS and Tauri",
-      "Implemented a robust app backend with Rust",
+      "Worked on 4 client projects",
+      "Collaborated in an agile team",
+      "Participated in technology research process",
+      "Assisted interns in their learning process",
     ],
   },
 ];
