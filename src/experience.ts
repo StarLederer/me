@@ -94,14 +94,13 @@ export const experience: Experiences = [
 
   // This is just straight up fiction.
   {
-    start: "2022-07",
-    end: "2023-07",
+    start: "2023-02",
+    // end: "2023-07",
     organization: "DTT",
     role: "Front-end developer",
     achievements: [
-      "Worked on 4 client projects",
       "Collaborated in an agile team",
-      "Participated in technology research process",
+      "Played a key role in Vite adoption",
       "Assisted interns in their learning process",
     ],
   },
