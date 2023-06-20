@@ -19,7 +19,7 @@ export const skills = [
       "Git",
       // "UnoCSS",
       // "Interaction design",
-      "i18n",
+      // "i18n",
       "REST",
       // "DX",
       // "VR development",
